@@ -63,6 +63,8 @@ export default function AppHeader() {
         )}
       />
 
+        <h1 style={{color: "white"}}>Joker Wallet</h1>
+
       <Button 
         type="primary" 
         onClick={() => setDrawer(true)}
